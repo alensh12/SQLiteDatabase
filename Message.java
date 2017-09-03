@@ -1,7 +1,7 @@
 package com.example.alensh.sqlitedb;
 
 import android.content.Context;
-import android.view.View;
+
 import android.widget.Toast;
 
 /**
